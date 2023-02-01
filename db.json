@@ -1,0 +1,40 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "courseNumber": 1,
+      "courseName": "Svenska",
+      "length": "3 veckor",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Lorem ipsum dolor sit amet consectetur adipisicing elit lorem ipsum dolor sit amet consectetur adipisicing elit",
+      "start": "01-02-2023"
+    },
+    {
+      "courseNumber": "3421",
+      "courseName": "JavaScript",
+      "length": "5 veckor",
+      "description": "blablabla",
+      "start": "25-03-2023",
+      "id": 20
+    }
+  ],
+  "teachers": [
+    {
+      "firstname": "Maria",
+      "lastname": "Eriksson",
+      "socialSecurityNumber": "721125-3745",
+      "email": "maria.eriksson@wce.com",
+      "phoneNumber": "0703826334",
+      "expertise": "Angular, SQL",
+      "id": 1
+    },
+    {
+      "firstname": "Sven",
+      "lastname": "Berg",
+      "socialSecurityNumber": "871125-3465",
+      "email": "sven.berg@wce.com",
+      "phoneNumber": "0702647364",
+      "expertise": "CSS, React, JavaScript",
+      "id": 10
+    }
+  ]
+}
